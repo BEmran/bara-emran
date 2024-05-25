@@ -296,8 +296,8 @@ display_categories: ["blockquotes"] # these categories will be displayed on the 
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Emran]
-  first_name: [Bara]
+  last_name: [Emran, Imran]
+  first_name: [Bara, Bara Jamal, Bara J., Bara J]
 
   style: apa
   locale: en
@@ -317,9 +317,9 @@ scholar:
   details_link: Details
 
   query: "@*"
-  group_by: year
+  group_by: type
   group_order: descending
-
+  
 # Display different badges withs stats for your publications
 enable_publication_badges:
   altmetric: true # Altmetric badge (https://www.altmetric.com/products/altmetric-badges/)
