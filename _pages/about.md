@@ -23,3 +23,8 @@ Bara received his Ph.D. from the University of British Columbia, holds a M.Sc. i
 
 Bara is enjoying his life in Vancouver, Canada with his family. In his spare time, he enjoys teaching robots for kids and volunteering as a scout leader for Beaver Scouts. 
 
+**Research Interest:**
+Developing practical and efficient learning-based control systems for unmanned systems to complete their
+tasks in uncertain dynamic environments. This requires the systems to safely interact with the environment,
+carry out their tasks autonomously, and improve their performance through learning from each other and
+from experience. Research fields include **Nonlinear Control System**,**Reinforcement Learning**, **Robotics** and **Autonomous Vehicles**.
